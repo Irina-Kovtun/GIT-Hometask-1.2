@@ -1,6 +1,5 @@
 Thumbs.db
-.DS_Store
-*.old
-*.backup
 tmp/
-
+.DS_Store
+*.html_old
+*.png_backup
